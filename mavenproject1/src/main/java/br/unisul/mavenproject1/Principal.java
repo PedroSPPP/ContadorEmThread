@@ -15,5 +15,6 @@ public class Principal {
 Runnable t2 = new Contador("t2");
 new Thread(t1).start();
 new Thread(t2).start();
+//jorge
  }
 }
